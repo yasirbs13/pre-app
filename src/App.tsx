@@ -10,7 +10,7 @@ function App() {
     
     <h1>Muhammad Yasir</h1>
     <p className="mb-4 text-yellow-900">WordPress Developer Now Learning React </p>
-    <Button>Hello</Button>
+    <Button></Button>
     </>
   )
 }
